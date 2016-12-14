@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "440846761454",
+    "firebase_url": "https://estrenosmdq-5945d.firebaseio.com",
+    "project_id": "estrenosmdq-5945d",
+    "storage_bucket": "estrenosmdq-5945d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440846761454:android:45d3af086c89eae5",
+        "android_client_info": {
+          "package_name": "com.coffeeandcookies.estrenosmdq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440846761454-79o9rqd133bnnmgnm0rfkq8obggd0aos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5m1PHD6nms7knQ02z614CfArVeEO5TkU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440846761454-79o9rqd133bnnmgnm0rfkq8obggd0aos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
